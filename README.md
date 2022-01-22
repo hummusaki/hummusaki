@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gabriel@gabmort.me**
 
-- ⚡ Fun fact **I have been trying to reverse engineer the Destiny 2 Tiger Engine**
+- ⚡ Fun fact **I have way too much time to spare**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
