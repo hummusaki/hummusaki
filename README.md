@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OOLs, .NET, Windows Forms**
 
-- 👯 I’m looking to collaborate on **other C# and backend-related projects**
+- 👯 I’m looking to collaborate on **C# and backend-related projects**
 
 - 🤝 I’m looking for help with **JSON serialization in C#**
 
