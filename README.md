@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoc101&label=Profile%20views&color=0e75b6&style=flat" alt="apoc101" /> </p>
 
-- 🔭 I’m currently working on [CelliClickerDesktop](https://github.com/Apoc101/CelliClickerDesktop)
+- 🔭 I’m currently working on [TerminaLib](https://github.com/Apoc101/TerminaLibs) (it sounds like a disease but it's more fun than that)
 
 - 🌱 I’m currently learning **OOLs, .NET, Windows Forms**
 
