@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [TerminaLibs](https://github.com/Apoc101/TerminaLibs)
 
-- 🌱 I’m currently learning **OOLs, .NET, Windows Forms**
+- 🌱 I’m currently learning **OOLs, Java, JS/Node**
 
-- 👯 I’m looking to collaborate on **C# and backend-related projects**
+- 👯 I’m looking to collaborate on ** and backend-related projects**
 
 - 🤝 I’m looking for help with **JSON serialization in C#**
 
