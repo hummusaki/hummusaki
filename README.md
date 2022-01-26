@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OOLs, Java, JS/Node**
 
-- 👯 I’m looking to collaborate on ** and backend-related projects**
+- 👯 I’m looking to collaborate on **websites, Object-Oriented and backend-related projects**
 
 - 🤝 I’m looking for help with **JSON serialization in C#**
 
