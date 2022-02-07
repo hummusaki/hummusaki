@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TerminaLibs](https://github.com/Apoc101/TerminaLibs)
 
-- 🌱 I’m currently learning **OOLs, Java, JS/Node**
+- 🌱 I’m currently learning **LINQ**
 
 - 👯 I’m looking to collaborate on **websites, Object-Oriented and backend-related projects**
 
