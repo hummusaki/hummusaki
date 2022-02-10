@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoc101&label=Profile%20views&color=0e75b6&style=flat" alt="apoc101" /> </p>
 
-- 🔭 I’m currently working on [TerminaLibs](https://github.com/Apoc101/TerminaLibs)
+- 🔭 I’m currently working on improving my problem solving skills
 
 - 🌱 I’m currently learning **ASP.NET**
 
