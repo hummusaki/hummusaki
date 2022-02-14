@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gabriel@gabmort.me**
 
-- ⚡ Fun fact **I have way too much time to spare**
+- ⚡ Fun fact **I have spent more time debugging than programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
