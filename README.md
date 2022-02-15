@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on improving my problem solving skills
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **websites, Object-Oriented and backend-related projects**
 
-- 🤝 I’m looking for help with **JSON serialization in C#**
+- 🤝 I’m looking for help with **XML serialization in C#**
 
 - 👨‍💻 All of my projects are available at [gabmort.me/work](https://www.gabmort.me/work/) or [https://github.com/Apoc101?tab=repositories](https://github.com/Apoc101?tab=repositories)
 
-- 💬 Ask me about **HTML5, JS, Java, CSS, SQL, Hardware**
+- 💬 Ask me about **Frontend, Software Development, SQL, Hardware**
 
 - 📫 How to reach me **gabriel@gabmort.me**
 
