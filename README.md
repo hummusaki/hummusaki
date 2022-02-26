@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gabriel</h1>
 
 ## About me
-Hey, my name is Gabriel but you I also go by Apoc and hummusaki. At the time of writing, I currently have over 2 && 1/5 years experience but I'm still learning. 
+Hey, my name is Gabriel but you I also go by Apoc and hummusaki. At the time of writing, I currently have over 2 & 1/5 years experience but I'm still learning. 
 
 ## What I know
 I've been doing Frontend since September 2019 and now I know the basics of Python, JavaScript, C#, SQL, and learning C++.
