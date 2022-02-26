@@ -3,7 +3,7 @@
 ## About me
 Hey, I'm Gabriel but I also go by Apoc and hummusaki. At the time of writing, I currently have over 2 && (haha get it?) 1/2 years of experience, but I'm still learning, planning to go to college for CompSci. <br>
 <br>
-I use Firefox Developer edition, use a 27" 2k as a primary and a vertical 24" 1080p vertically as a second, and use Silver Speeds (not the best for typing, but the responsiveness is what attracted me).
+I use Firefox Developer edition, a 27" 2k as a primary and a vertical 24" 1080p vertically as a second, alongside Silver Speeds (not the best for typing, but the responsiveness is what attracted me).
 
 ## What I know
 I've been doing Frontend since September 2019 and now I know the basics of Python, JavaScript, C#, SQL, and learning C++.
