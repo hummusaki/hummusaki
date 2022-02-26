@@ -5,7 +5,7 @@ Hey, I'm Gabriel but I also go by Apoc and hummusaki. At the time of writing, I 
 
 ## What I know
 I've been doing Frontend since September 2019 and now I know the basics of Python, JavaScript, C#, SQL, and learning C++.
-I also eventually want to get into frameworks, but lack a reason to do so right now.
+I also eventually want to get into frameworks, but don't have a reason to do so right now.
 
 ## Contact Me
 You can contact me on [discord](https://discord.gabmort.me/),<br>
