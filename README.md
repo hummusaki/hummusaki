@@ -16,4 +16,4 @@ or at my website: https://gabmort.me/contact/
 
 ## GitHub Stats 
 ![Apoc's github stats](https://github-readme-stats.vercel.app/api?username=Apoc101&show_icons=true&theme=dark)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoc101k&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoc101&theme=dark)
