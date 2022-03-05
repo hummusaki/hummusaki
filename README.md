@@ -11,8 +11,8 @@ I also eventually want to get into frameworks, but don't have a reason to do so 
 
 ## Contact Me
 You can contact me on [discord](https://discord.gabmort.me/),<br>
-on email at gabriel@gabmort.me,<br>
-or at my website: https://gabmort.me/contact/
+by email at gabriel@gabmort.me,<br>
+or by other links on my website: https://gabmort.me/contact/
 
 ## GitHub Stats 
 
