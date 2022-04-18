@@ -16,10 +16,5 @@ You can contact me on [discord](https://discord.gabmort.me/),<br>
 by email at gabriel@gabmort.me,<br>
 or by other links on my website: https://gabmort.me/contact/
 
-## GitHub Stats 
-
-![Apoc's github stats](https://github-readme-stats.vercel.app/api?username=Apoc101&show_icons=true&theme=dark)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoc101&theme=dark)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoc101&label=Profile%20views&color=0e75b6&style=flat" alt="apoc101" /> </p> <br>
 
