@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gabriel</h1>
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
 
 ## About me
 I also go by Apoc and hummusaki. <br>At the time of writing, I currently have over 2 && 1/2 years of experience, but I'm still learning, planning to go to college for software development / infosec in software. <br>
