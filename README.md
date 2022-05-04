@@ -14,7 +14,7 @@ I also eventually want to get into frameworks, but don't have a reason to do so 
 ## Contact Me
 You can contact me on [discord](https://discord.gabmort.me/),<br>
 by email at gabriel@gabmort.me,<br>
-or by other links on my website: https://gabmort.me/contact/
+or by other ways on my website: https://gabmort.me/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoc101&label=Profile%20views&color=0e75b6&style=flat" alt="apoc101" /> </p> <br>
 
