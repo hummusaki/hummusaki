@@ -3,7 +3,7 @@
 ## About me
 I also go by Apoc and hummusaki. <br>At the time of writing, I currently have over 2 && 1/2 years of experience, but I'm still learning, planning to go to college for software development / infosec in software. <br>
 <br>
-As for sofware, I use Firefox Developer edition, a highly customized VSC, Photoshop/Premiere 2020, and Visual Studio for C# apps. As for hardware, I use a 27" 2k as a primary and a vertical 24" 1080p vertically aligned as a second, alongside Silver Speeds in a K70 Mk2 (not the best for typing, but the responsiveness is what caught my eye).
+As for sofware, I use Firefox Developer edition, a highly customized VSC, Photoshop/Premiere 2020, and Visual Studio for C# apps. As for hardware, I use a 27" 2k as a primary and a vertical 24" 1080p vertically aligned as a second, alongside Akko CS Pinks in an Akko 3068b paired with a Razer Viper Ultimate.
 
 [My full PcPartPicker list](https://pcpartpicker.com/user/hummusai/saved/QL8rMp).
 
