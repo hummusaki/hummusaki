@@ -19,7 +19,7 @@ Website: https://gabmort.me/
 
 GitHub overview:
 
-![Apoc's github stats](https://github-readme-stats.vercel.app/api?username=Apoc101&show_icons=true&theme=dracula&hide=stars)
+![Apoc's github stats](https://github-readme-stats.vercel.app/api?username=EtanoloYT&show_icons=true&theme=dracula&hide=stars)
 
 <details>
   <summary>Click👆</summary>
