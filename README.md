@@ -1,10 +1,12 @@
-# Apoc's profile
+# Info
 
-Aliases are Apoc and hummusaki
+My aliases are Apoc and hummusaki
 
 Working with C++, C# and JS
 
 Personal website: https://gabmort.me/
+
+Discord: hummusaki#3952
 
 GitHub overview:
 
