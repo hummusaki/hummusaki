@@ -1,29 +1,11 @@
 # Apoc's profile
 
-> (I also go by hummusaki)
-<br>
+Aliases are Apoc and hummusaki
 
-👨🏻‍💻 I program anything
+Working with C++, C# and JS
 
-### Tech Stack
-
-- 🌎 Frontend: JS, Node, React, PHP, APIs
-- 💻 Software development: C#, Python, C++
-- 🤷‍♂️ Other: SQL, CSS debugging, OOP concepts
-
-### Portfolios
-
-> *pending...*
-
-Website: https://gabmort.me/
+Personal website: https://gabmort.me/
 
 GitHub overview:
 
 ![Apoc's github stats](https://github-readme-stats.vercel.app/api?username=Apoc101&show_icons=true&theme=github_dark&hide=stars&custom_title=Stats)
-
-<details>
-  <summary>Click</summary>
-  <pre>
-  🚙
-  </pre>
-</details>
