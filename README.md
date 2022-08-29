@@ -6,7 +6,7 @@ Working with C++, C# and JS
 
 Personal website: https://gabmort.me/
 
-Discord: hummusaki#3952
+hummusaki#3952 on Discord
 
 GitHub overview:
 
