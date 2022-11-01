@@ -1,7 +1,5 @@
 # Info
 
-My aliases are Apoc and hummusaki
-
 Working with C++, C# and JS
 
 Personal website: https://gabmort.me/
