@@ -8,4 +8,4 @@ hummusaki#3952 on Discord
 
 GitHub overview:
 
-![Apoc's github stats](https://github-readme-stats.vercel.app/api?username=Apoc101&show_icons=true&theme=github_dark)
+![Apoc's github stats](https://github-readme-stats-lake-tau-95.vercel.app/api?username=Apoc101&show_icons=true&theme=github_dark)
