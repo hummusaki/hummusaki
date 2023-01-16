@@ -1,6 +1,6 @@
 # Info
 
-Working with C++, C# and JS
+Working with Python, frontend, C++, C# and JS
 
 Personal website: https://gabmort.me/
 
