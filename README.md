@@ -1,3 +1,3 @@
-CompSci '26 @ VCCCD
+CogSci '28 @ UCSC
 
 hummusaki on discord
